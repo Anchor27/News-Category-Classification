@@ -1,6 +1,6 @@
 # NEWS CATEGORY CLASSIFICATION MODEL
 
-
+<img src="https://github.com/Anchor27/Data/blob/db0871b4ff5435668df6ee95762666239b3feb81/NEWS-IMG.png">
 
 ## Overview
 In an era characterized by information abundance, the efficient categorization of news headlines becomes paramount. This project endeavors to contribute to this objective by developing a robust machine learning model capable of accurately classifying news headlines into distinct categories. Leveraging advanced natural language processing techniques, the model aims to bring sophistication to news categorization.
@@ -32,7 +32,7 @@ The various news-headline categories on which my model was trained are:
 3. Imperative
 4. Exclamatory
 5. Fragment
-6. Miscelleanous (nq_drop, qws)
+6. Miscellaneous (nq_drop, qws)
 
 ## 4. Dataset Exploration
 ### Data Source and Preprocessing
@@ -50,7 +50,7 @@ The textual content of the headlines undergoes transformation using Term Frequen
 Beyond textual representations, linguistic features such as text length and word count are meticulously extracted. These features add an additional layer of context, allowing the model to recognize patterns beyond the lexical domain.
 
 ### Model Architecture
-The model architecture is anchored by a RandomForestClassifier with 100 estimators. This ensemble learning approach is chosen for its adaptability to high-dimensional feature spaces and its potential to deliver robust results.Evaluation
+The model architecture is anchored by a Random Forest Classifier with 100 estimators. This ensemble learning approach is chosen for its adaptability to high-dimensional feature spaces and its potential to deliver robust results.Evaluation
 To assess the model's efficacy, a meticulous evaluation process is executed on a distinct test set. The evaluation metrics, including accuracy, and a comprehensive classification report, are presented for a nuanced understanding of the model's performance.
 
 #### Code snippet for model training
