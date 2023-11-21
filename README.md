@@ -1,6 +1,6 @@
 # NEWS HEADLINE CATEGORY CLASSIFICATION MODEL
 
-<img src="https://github.com/Anchor27/Data/blob/db0871b4ff5435668df6ee95762666239b3feb81/NEWS-IMG.png">
+<img src="https://github.com/Anchor27/Projects-Data-Repo/blob/d328ec824642867a952f42beebf03aedaddd2498/NEWS-IMG.png">
 
 ## Overview
 In an era characterized by information abundance, the efficient categorization of news headlines becomes paramount. This project endeavors to contribute to this objective by developing a robust machine learning model capable of accurately classifying news headlines into distinct categories. Leveraging advanced natural language processing techniques, the model aims to bring sophistication to news categorization.
